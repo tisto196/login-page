@@ -3,7 +3,9 @@
     font-family: 'poppins' ,sans-serif;
 }
 body{
-    background-image: url("/image/3.jpg" );
+    background-image: url("/image/2.png" );
+    
+    
     background-size:1000px;
     /* background-position: center;
     background-attachment: fixed;*/
@@ -13,6 +15,7 @@ body{
     
 }
 .box{
+    color: aqua;
     display: flex;
     justify-content: center;
     align-items: center;
